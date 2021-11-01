@@ -1,0 +1,10 @@
+teste
+ola
+teste 
+go 
+ola
+nao contar ola
+go
+teste
+unico
+ola
