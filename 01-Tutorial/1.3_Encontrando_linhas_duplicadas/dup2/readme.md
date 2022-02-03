@@ -1,0 +1,2 @@
+## Comando para teste:
+``` go run dup2.go  C:\dev\go\A_linguagem_de_programação_Go\01-Tutorial\1.3_Encontrando_linhas_duplicadas\dup2\teste.txt C:\dev\go\A_linguagem_de_programação_Go\01-Tutorial\1.3_Encontrando_linhas_duplicadas\dup2\teste2.txt```
